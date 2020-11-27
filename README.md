@@ -32,16 +32,3 @@ https://github.com/yizhiwazi/springboot-socks
 将 Spring Boot 和 Java 的持久层框架（如 Mybatis-Plus ）串起来，通过 REST 的接口进行简单的增删改查操作（可以完全不需要页面，仅仅需要一个 Postman 或者 curl 即可）
 使用 FreeMarker 或者 Thymeleaf 其他模板引擎，写一个简单的页面（可以是一些简单的输入框，按钮，完全不需要考虑样式），再将之前的增删改查操作串起来，并通过模板引擎将结果渲染至浏览器。
 
-Java 在生产中多数是以服务端开发为主，那在服务端领域还有一个一定绕不开的 Java 框架就是 Spring。我相信你一定听过这个名字，Spring 这个框架现在基本已经是 Java 服务端的工业级标准了，我就职过的公司没有一个不用的，而 Spring 发展至今，他工程上的复杂程度也大大的提高了，各种封装和抽象，想要搞懂原理变得非常困难，但是你不需要太过害怕，因为只是完成功能上的开发和一般的使用是不需要知道 Spring 的原理的。Spring 团队为了能进一步提升开发体验，推出了 Spring Boot 这个框架，你可以认为 Spring Boot 是对原本的 Spring MVC 进行封装并且内置了一个 Tomcat 的容器，仅此而已。最后如果是新学的话建议直接从 2.0 开始。
-
-关于 Spring Boot 我这里推荐一个项目：
-
-https://github.com/yizhiwazi/springboot-socks
-
-项目里面内置了很多有用的片段，从最简单的 Hello World 到如何集成 Mybatis 啊，又或者是如何跨域，还有怎么发送邮件啊等等，都有一个对应的文件夹的示例。
-
-此阶段建议按照以下路线学习：
-
-从零启动一个空的 Spring Boot 项目，可以学习到 Spring Boot 的最小配置，以及如何声明 REST 风格的 Controller 并返回简单的数据
-将 Spring Boot 和 Java 的持久层框架（如 Mybatis-Plus ）串起来，通过 REST 的接口进行简单的增删改查操作（可以完全不需要页面，仅仅需要一个 Postman 或者 curl 即可）
-使用 FreeMarker 或者 Thymeleaf 其他模板引擎，写一个简单的页面（可以是一些简单的输入框，按钮，完全不需要考虑样式），再将之前的增删改查操作串起来，并通过模板引擎将结果渲染至浏览器。
