@@ -32,3 +32,25 @@ https://github.com/yizhiwazi/springboot-socks
 将 Spring Boot 和 Java 的持久层框架（如 Mybatis-Plus ）串起来，通过 REST 的接口进行简单的增删改查操作（可以完全不需要页面，仅仅需要一个 Postman 或者 curl 即可）
 使用 FreeMarker 或者 Thymeleaf 其他模板引擎，写一个简单的页面（可以是一些简单的输入框，按钮，完全不需要考虑样式），再将之前的增删改查操作串起来，并通过模板引擎将结果渲染至浏览器。
 
+
+## NewBee: 完整的电子商城
+
+坚持到现在的你需要一个媲美生产环境的完整项目经验，而这个开源项目恰好可以满足，推荐这个项目的原因如下：
+
+项目的体量大了很多，不单单是后端代码，还有一整套的前端页面，Awesome！
+商城基本功能都已经具备：首页，登录，浏览商品，购物车，下单等，甚至还有一个后台管理功能，Awesome！
+
+GitHub 地址：https://github.com/newbee-ltd/newbee-mall
+
+预览地址：http://mall.newbee.ltd
+
+
+## 进阶
+ 
+ 之前都是偏向实践的项目，到了这里，应该放慢脚步，往更高层的方向出发了。正所谓，「知其然，更要知其所以然」。有了实践的帮助，会让学习理论不那么枯燥，同样也因为理论，让实践有了更好的基础。
+
+项目地址：https://github.com/doocs/advanced-java
+在线阅读：https://doocs.github.io/advanced-java
+这个在线书籍包含了很多 Java 生态中的高级话题，如高并发，分布式，缓存，高可用，微服务等等。由一个问句引出读者的思考，让读者跟着作者的思路一步步的从提出问题，分析问题到最后的解决问题。
+
+预览地址：http://mall.newbee.ltd 
